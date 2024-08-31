@@ -4,33 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81e22dd2-2d7a-4e49-94d2-b6c40376ecde" name="Changes" comment="Chapter 5 Done">
-      <change afterPath="$PROJECT_DIR$/content/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/jinstagram/profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/user/join.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/user/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/views.py" afterDir="false" />
+    <list default="true" id="81e22dd2-2d7a-4e49-94d2-b6c40376ecde" name="Changes" comment="Chapter 6 Done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/content/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/content/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/content/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinstagram/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/jinstagram/asgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinstagram/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/jinstagram/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinstagram/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/jinstagram/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinstagram/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/jinstagram/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinstagram/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/jinstagram/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/jinstagram/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/jinstagram/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/jinstagram/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/jinstagram/profile.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +51,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yinam\PycharmProjects\jinstagram" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Run Manage.py" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Jinstagram" />
@@ -119,10 +102,21 @@
       <option name="presentableId" value="Default" />
       <updated>1725006862284</updated>
     </task>
+    <task id="LOCAL-00001" summary="Chapter 6 Done">
+      <option name="closed" value="true" />
+      <created>1725087495509</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725087495509</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Chapter 6 Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 6 Done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
