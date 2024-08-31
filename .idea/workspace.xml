@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81e22dd2-2d7a-4e49-94d2-b6c40376ecde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/jinstagram/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/357a8d56041742e59fc337e860848d81" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/a050b5e4ba364605a1c008740c676c46" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/ceecc905e19c483d91fe792a6bc3d7e4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Jinstagram.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Jinstagram.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinstagram/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/jinstagram/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jinstagram/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/jinstagram/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/42730ddf2c0a4592a87305c5b390cd13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/87e144f6f1064e05b14ac27f867d1838" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/9111092de2594e2b822daa907b6330e9" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/jinstagram/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/jinstagram/main.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,30 +31,33 @@
     &quot;assignee&quot;: &quot;yinamsu&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/yinamsu/jinstagram.git&quot;,
-    &quot;accountId&quot;: &quot;0fae8164-78a8-40dd-b736-6d08403942a2&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/yinamsu/jinstagram.git",
+    "accountId": "7f67593f-e4e0-42d5-99e2-92552b956f91"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2lN3luVEmuUgh0PCqWP8FUgJ4T2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Run Manage.py.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.Run Manage.py.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Run Manage.py" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Jinstagram" />
@@ -61,8 +68,9 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
@@ -83,7 +91,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
       </set>
     </attachedChunks>
   </component>
@@ -97,5 +105,19 @@
       <updated>1725006862284</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/manage.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
