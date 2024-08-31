@@ -1,8 +1,7 @@
-"""
-URL configuration for jinstagram project.
+"""jinstagram URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
-    https://docs.djangoproject.com/en/5.1/topics/http/urls/
+    https://docs.djangoproject.com/en/3.2/topics/http/urls/
 Examples:
 Function views
     1. Add an import:  from my_app import views
@@ -15,13 +14,17 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.urls import path
-from .views import Main, UploadFeed
+from .views import Main, Profile
 from django.conf import settings
 from django.conf.urls.static import static
+from django.urls import path, include
+
 
 urlpatterns = [
-    path('', Main.as_view()),
-    path('content/upload', UploadFeed.as_view())
+    path('', Main.as_view(), name='main'),
+    path('profile', Profile.as_view(), name='profile'),
+    path('user/', include('user.urls')),
+    path('content/', include('content.urls'))
 ]
 
 urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

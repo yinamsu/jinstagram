@@ -4,17 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81e22dd2-2d7a-4e49-94d2-b6c40376ecde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/media/357a8d56041742e59fc337e860848d81" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/a050b5e4ba364605a1c008740c676c46" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/ceecc905e19c483d91fe792a6bc3d7e4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Jinstagram.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Jinstagram.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="81e22dd2-2d7a-4e49-94d2-b6c40376ecde" name="Changes" comment="Chapter 5 Done">
+      <change afterPath="$PROJECT_DIR$/content/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/jinstagram/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/user/join.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/user/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/content/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/content/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/content/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/42730ddf2c0a4592a87305c5b390cd13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/87e144f6f1064e05b14ac27f867d1838" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/9111092de2594e2b822daa907b6330e9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jinstagram/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/jinstagram/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jinstagram/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/jinstagram/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jinstagram/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/jinstagram/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jinstagram/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/jinstagram/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jinstagram/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/jinstagram/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/jinstagram/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/jinstagram/main.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,12 +46,12 @@
     &quot;assignee&quot;: &quot;yinamsu&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/yinamsu/jinstagram.git",
-    "accountId": "7f67593f-e4e0-42d5-99e2-92552b956f91"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/yinamsu/jinstagram.git&quot;,
+    &quot;accountId&quot;: &quot;7f67593f-e4e0-42d5-99e2-92552b956f91&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -48,16 +63,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.Run Manage.py.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.Run Manage.py.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Run Manage.py" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Jinstagram" />
@@ -116,6 +131,11 @@
           <url>file://$PROJECT_DIR$/manage.py</url>
           <line>2</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/AppData/Local/Programs/Python/Python312/Lib/site-packages/django/contrib/auth/base_user.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
