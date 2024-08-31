@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81e22dd2-2d7a-4e49-94d2-b6c40376ecde" name="Changes" comment="Chapter 6 Done">
+    <list default="true" id="81e22dd2-2d7a-4e49-94d2-b6c40376ecde" name="Changes" comment="Right Before EC2 Upload">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/jinstagram/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/jinstagram/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/jinstagram/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/jinstagram/profile.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,13 +107,22 @@
       <option name="project" value="LOCAL" />
       <updated>1725087495509</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Right Before EC2 Upload">
+      <option name="closed" value="true" />
+      <created>1725089402050</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725089402050</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Chapter 6 Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 6 Done" />
+    <MESSAGE value="Right Before EC2 Upload" />
+    <option name="LAST_COMMIT_MESSAGE" value="Right Before EC2 Upload" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
